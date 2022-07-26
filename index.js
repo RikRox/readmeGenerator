@@ -1,5 +1,5 @@
 // TODO: Include packages needed for this application
-const generateMarkdown = ('./utils/generateMarkdown.js');
+const generateMarkdown = require('./utils/generateMarkdown.js');
 const fs = require('fs');
 
 // TODO: Create an array of questions for user input
@@ -131,8 +131,8 @@ const askQuestions = data => {
 
 // TODO: Create a function to write README file
 
-function writeToFile(data) {
-    fs.writeFile('./dist/readme.md', data, err => {
+function writeToFile(readmeData) {
+    fs.writeFile('./dist/readme.md', readmeData, err => {
         if(err){
             console.log(err);
         } else {
@@ -152,5 +152,9 @@ init();
 askQuestions()
     .then(data => {
         console.log(data.title);
-        return writeToFile(data.title);
+        generateMarkdown(data);
+        //writeToFile(generateMarkdown);
+        const readmeData = generateMarkdown(data);
+        console.log(readmeData);
+        writeToFile(readmeData);
     });
