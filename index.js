@@ -158,3 +158,5 @@ askQuestions()
         console.log(readmeData);
         writeToFile(readmeData);
     });
+
+    //module.exports = data.license;
