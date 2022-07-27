@@ -11,7 +11,7 @@
   - [Installation Instructions](#Installation-Instructions)
   - [Usage Information](#Usage-Information)
   - [Licensing](#Licensing)
-  - [Questions?](#Questions?)
+  - [Questions](#Questions)
   
   ## Installation Instructions
   To use this software you must install node.js as well as inquirer. See the official node.js documentation for installation instructions. You will also need to see the inquirer documentation on installing version 8.2.4.
