@@ -56,7 +56,7 @@ function generateMarkdown(data) {
   - [Contribution Guidelines](#Contribution-Guidelines)
   - [Tests](#Tests)
   - [Licensing](#Licensing)
-  - [Questions?](#Questions?)
+  - [Questions?](#Questions)
   
   ## Installation Instructions
   ${data.install}
@@ -73,7 +73,7 @@ function generateMarkdown(data) {
   ## Licensing
   ${renderLicenseSection(license)}
 
-  ## Questions?
+  ## Questions
   To see my github repository please visit my [Github repository](https://github.com/${data.username})
   
   To contact me for more questions feel free to email me at: ${data.email}
