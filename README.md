@@ -23,7 +23,7 @@
   This project has no license which means it is under exclusive copyright by default. Nobody can copy, distribute or modify.
 
   ## Questions?
-  To see my github repository please visit my [Github repository](https://github.com/RikRox/ReadME-Generator)
+  To see my github repository please visit my [Github repository](https://github.com/RikRox/ReadMEGenerator)
   
   To contact me for more questions feel free to email me at: Rikaylaj@gmail.com
   
