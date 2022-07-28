@@ -27,5 +27,11 @@
   
   To contact me for more questions feel free to email me at: Rikaylaj@gmail.com
   
+  ##assets
+  
+  Video of application working: https://drive.google.com/file/d/18K6VZ3y0OejDmSMzafJuQslXlWl9J8Fx/view
+  
+  My Repository is located at: https://github.com/RikRox/ReadMEGenerator
+  
   
   
