@@ -1,9 +1,9 @@
 
   ![MIT](https://img.shields.io/badge/License-No_License-red)
-  # README Generator
+  # Readme Generator
   
   ## Description
-  This project allows you to generate a professional readme from the cmd prompt. You will be asked to enter information such as installation instructions, usage information, contribution guidelines, tests, licensing information, and personal information for ways people can reach out to you if they have any questions. This will then generate a professional README document.
+  This allows us to create a professional readme
   
   ## Table of Contents
   - [Installation Instructions](#Installation-Instructions)
@@ -11,24 +11,24 @@
   - [Contribution Guidelines](#Contribution-Guidelines)
   - [Tests](#Tests)
   - [Licensing](#Licensing)
-  - [Questions?](#Questions?)
+  - [Questions?](#Questions)
   
   ## Installation Instructions
-  To use this software you must install node.js as well as inquirer. See the official node.js documentation for installation instructions. You will also need to see the inquirer documentation on installing version 8.2.4.
+  install node using node.js official documentation
   
   ## Usage Information
-  To use this software you run 'node index' from the command prompt after navigating to the root directory of the project. You then answer the series of questions and check the 'dist' folder for you generated file. 
+  Run the application and answer questions
   
   ### Contribution Guidelines
-  x
+  Not open to contributors
   
   ## Tests
-  x
+  Tell how to test your project
   
   ## Licensing
   This project has no license which means it is under exclusive copyright by default. Nobody can copy, distribute or modify.
 
-  ## Questions?
+  ## Questions
   To see my github repository please visit my [Github repository](https://github.com/RikRox)
   
   To contact me for more questions feel free to email me at: Rikaylaj@gmail.com
